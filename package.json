@@ -1,0 +1,23 @@
+{
+  "name": "digital_to_numeric_conversion",
+  "version": "1.0.0",
+  "description": "This sample read the text file which contains the digital numbers and write the text file numeric number corresponding to digital number. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulkitAgg/Digital_To_Numeric_Conversion.git"
+  },
+  "author": "Pulkit Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PulkitAgg/Digital_To_Numeric_Conversion/issues"
+  },
+  "homepage": "https://github.com/PulkitAgg/Digital_To_Numeric_Conversion#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
